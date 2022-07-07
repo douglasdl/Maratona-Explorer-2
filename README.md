@@ -14,7 +14,7 @@
 
 <br>
 <p align="center">
-    <a href="https://douglasdl.github.io/Maratona-Explorer-2/">
+    <a href="https://douglasdl.github.io/Maratona-Explorer-2/index.html">
         <img alt="Rocket Links" src="https://douglasdl.github.io/images/RocketLinks.png" width="100%">
     </a>
 </p>
@@ -43,7 +43,7 @@ Icons
 ## 📐 Project
 
 This was a Foundation project from Maratona Explorer 2 - Rocket Links.
-Check the project online [here](https://douglasdl.github.io/NLW6-Origin/).
+Check the project online [here](https://douglasdl.github.io/Maratona-Explorer-2/index.html).
 Rocket Links is an social media links list page in the One Page format.
 It's composed by the following sections: Header, Main and Footer.
 
